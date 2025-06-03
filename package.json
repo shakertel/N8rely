@@ -1,0 +1,9 @@
+{
+  "name": "n8n-relay-server",
+  "version": "1.0.0",
+  "main": "api/relay.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
